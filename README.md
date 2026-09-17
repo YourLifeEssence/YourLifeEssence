@@ -27,7 +27,7 @@
       <p>
         <a href="mailto:vladislavrazuvaev812@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="38" alt="Gmail" /></a>
         <a href="https://www.linkedin.com/in/vladislav-razuvaev-601998378"><img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn" /></a>
-        <a href="https://t.me/YourLifeEssence"><img src="https://img.icons8.com/?size=100&id=lUktdBVdL4Kb&format=png&color=000000" width="36" alt="Telegram" /></a>
+        <a href="https://t.me/YourLifeEssence"><img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="36" alt="Telegram" /></a>
         <a href="https://discord.com/users/yourlifeessence"><img src="https://skillicons.dev/icons?i=discord" width="36" alt="Discord" /></a>
       </p>
       <p>
