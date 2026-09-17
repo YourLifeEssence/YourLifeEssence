@@ -17,7 +17,6 @@
     <td width="60%" valign="top">
       <h3>About Me 👨‍💻</h3>
       <ul>
-        
         🌱 I’m currently learning and building cool web projects<br>
         💻 I'm constantly picking at something, breaking it, and reassembling it<br>
         🥔 Fun fact: One of my nicknames is Potato.
