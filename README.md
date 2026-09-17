@@ -32,7 +32,7 @@
       </p>
       <p>
         <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-          <img src="https://spotifygithubprofile.kittinanx.com/api/viewuid=31n5d3bsw3fg5ptrlo2z37dnbzg4&cover_image=true&theme=spotifyembed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="100%" />
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n5d3bsw3fg5ptrlo2z37dnbzg4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="100%" />
         </a>
       </p>
     </td>
@@ -57,11 +57,6 @@
 <p align="center">
   <em><b>Exploring & Learning</b></em><br>
   <img src="https://skillicons.dev/icons?i=nodejs,py,cs" />
-</p>
-
-<p align="center">
-  <em><b>Core Stack</b></em><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,py,c,cpp,cs" />
 </p>
 
 <p align="center">
