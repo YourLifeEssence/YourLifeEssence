@@ -50,7 +50,7 @@
 
 <p align="center">
   <em><b>Core Stack</b></em><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,py,c,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,c,cpp" />
 </p>
 
 <p align="center">
