@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="chainsaw-man-makima.gif" width="100%" />
+  <img src="chainsaw-man-makima.gif" width="75%" />
 </p>
 
 <hr>
